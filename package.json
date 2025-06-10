@@ -1,0 +1,11 @@
+{
+  "name": "piufromph-roblox-proxy",
+  "version": "1.0.0",
+  "description": "A Vercel proxy for Roblox presence API",
+  "main": "api/roblox-presence-proxy.js",
+  "scripts": {
+    "start": "node api/roblox-presence-proxy.js"
+  },
+  "author": "piufromph",
+  "license": "MIT"
+}
